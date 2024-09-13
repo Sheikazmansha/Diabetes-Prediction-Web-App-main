@@ -16,6 +16,7 @@ Problem statement
 
   <img src="https://miro.medium.com/v2/resize:fit:1024/1*B8gZWOU9GTpz4ps4I7rZjQ.jpeg" height=15% width=40% align="right">
   
+   <img src="https://raw.githubusercontent.com/Faltenreich/Diaguard/develop/resource/image/marketing/showcase.png"  height=20% width=40% align="right">
 
 Here are some problem statements related to diabetes:
 
@@ -43,4 +44,3 @@ To prevent or delay the onset of type 2 diabetes, you can: Maintain a normal bod
 
 
 
-<img src="https://raw.githubusercontent.com/Faltenreich/Diaguard/develop/resource/image/marketing/showcase.png"  height=20% width=40% align="right">
