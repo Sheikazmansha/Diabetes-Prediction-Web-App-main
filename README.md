@@ -53,7 +53,9 @@ Dark Mode
 Localized in English, German, French, Spanish and Italian
 
 
+
 Project overview:
+
 
 Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. Insulin is a hormone that regulates blood glucose. Hyperglycaemia, also called raised blood glucose or raised blood sugar, is a common effect of uncontrolled diabetes and over time leads to serious damage to many of the body's systems, especially the nerves and blood vessels.
 
@@ -64,6 +66,9 @@ Between 2000 and 2019, there was a 3% increase in age-standardized mortality rat
 By contrast, the probability of dying from any one of the four main noncommunicable diseases (cardiovascular diseases, cancer, chronic respiratory diseases or diabetes) between the ages of 30 and 70 decreased by 22% globally between 2000 and 2019. 
 
 
+
+
+ <img src="https://link.springer.com/article/10.1007/s13402-021-00626-9"  height=20% width=30% align="left">
 
 
 
