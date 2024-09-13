@@ -28,7 +28,7 @@ Early prediction: How can diabetes be predicted early?
 Diabetes can lead to many serious health complications, including: Heart attacks and strokes, Kidney failure, Blindness, Lower-limb amputation, and Foot ulcers and infection. 
 To prevent or delay the onset of type 2 diabetes, you can: Maintain a normal body weight, Avoid tobacco use, Eat a healthy diet, and Get regular physical activity. 
 
- <img src="https://raw.githubusercontent.com/Faltenreich/Diaguard/develop/resource/image/marketing/showcase.png"  height=20% width=30% align="right">
+ <img src="https://raw.githubusercontent.com/Faltenreich/Diaguard/develop/resource/image/marketing/showcase.png"  height=20% width=30% align="left">
 
 
 
