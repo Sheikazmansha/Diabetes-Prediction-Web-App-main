@@ -9,7 +9,9 @@
 🌱 I'm currently learning: Information technology
 [LeetCode] (https://leetcode.com/sheikazmansha)<br>
 
+
 Future updation: need to work on data scientist
+
 
 
 Problem statement
@@ -28,6 +30,7 @@ Algorithm accuracy: Which algorithm is more accurate at predicting diabetes?
 Early prediction: How can diabetes be predicted early? 
 Diabetes can lead to many serious health complications, including: Heart attacks and strokes, Kidney failure, Blindness, Lower-limb amputation, and Foot ulcers and infection. 
 To prevent or delay the onset of type 2 diabetes, you can: Maintain a normal body weight, Avoid tobacco use, Eat a healthy diet, and Get regular physical activity. 
+
 
 
 Demo web app details:
@@ -55,6 +58,7 @@ Localized in English, German, French, Spanish and Italian
 
 
 
+
 Project overview:
 
 
@@ -72,16 +76,8 @@ By contrast, the probability of dying from any one of the four main noncommunica
  project introduction:
  
  
- 
+ Diabetes mellitus is characterized by abnormally high levels of sugar (glucose) in the blood.
 
+When the amount of glucose in the blood increases, e.g., after a meal, it triggers the release of the hormone insulin from the pancreas. Insulin stimulates muscle and fat cells to remove glucose from the blood and stimulates the liver to metabolize glucose, causing the blood sugar level to decrease to normal levels.
 
-
-
-
-
-
-
-
-
-
-
+In people with diabetes, blood sugar levels remain high. This may be because insulin is not being produced at all, is not made at sufficient levels, or is not as effective as it should be. The most common forms of diabetes are type 1 diabetes (5%), which is an autoimmune disorder, and type 2 diabetes (95%), which is associated with obesity. Gestational diabetes is a form of diabetes that occurs in pregnancy, and other forms of diabetes are very rare and are caused by a single gene mutation.
