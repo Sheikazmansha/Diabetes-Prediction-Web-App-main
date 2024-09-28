@@ -35,7 +35,7 @@ To prevent or delay the onset of type 2 diabetes, you can: Maintain a normal bod
 
 Demo web app details:
 
-
+<img src="https://user-images.githubusercontent.com/41515202/95026749-37330280-06b1-11eb-888d-bf7bd2bc45bd.png" height=25% width=40% align="right">
 
 
 Diaguard is an Android app for people with diabetes mellitus.
