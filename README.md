@@ -103,5 +103,8 @@ By contrast, the probability of dying from any one of the four main noncommunica
 <img src="https://user-images.githubusercontent.com/110838853/192419145-78730245-264d-49fb-bce6-987c05410698.png" height=15% width=40% align="right">
 
 
-https://user-images.githubusercontent.com/110838853/192419145-78730245-264d-49fb-bce6-987c05410698.png
+
+
+
+                                                  THANK YOU!
 
