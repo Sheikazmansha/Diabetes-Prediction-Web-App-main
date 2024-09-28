@@ -6,7 +6,7 @@
 * experience programmer
 
 
-🌱 I'm currently learning: Information technology[LeetCode](https://leetcode.com/sheikazmansha)<br>
+🌱 I'm currently learning: Information technology[LeetCode] (https://leetcode.com/sheikazmansha)<br>
 
 Future updation: need to work on data scientist
 
