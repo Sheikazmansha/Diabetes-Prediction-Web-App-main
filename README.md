@@ -102,4 +102,6 @@ By contrast, the probability of dying from any one of the four main noncommunica
  <img src="https://image.slidesharecdn.com/igmc-151011171138-lva1-app6891/85/Diabetes-and-GIT-5-320.jpg" height=15% width=40% align="right">
 
  
-https://image.slidesharecdn.com/igmc-151011171138-lva1-app6891/85/Diabetes-and-GIT-5-320.jpg
+<img src="https://github.com/Priyanshu88/Diabetes-Prediction-Streamlit-App.git" height=15% width=40% align="right">
+
+ https://github.com/Priyanshu88/Diabetes-Prediction-Streamlit-App.git
