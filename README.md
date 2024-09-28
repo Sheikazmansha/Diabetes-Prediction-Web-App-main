@@ -59,6 +59,8 @@ Localized in English, German, French, Spanish and Italian
 
 
 
+
+
 Project overview:
 
 
@@ -73,11 +75,28 @@ By contrast, the probability of dying from any one of the four main noncommunica
 
 
 
- project introduction:
+ Project introduction:
  
  
  Diabetes mellitus is characterized by abnormally high levels of sugar (glucose) in the blood.
 
-When the amount of glucose in the blood increases, e.g., after a meal, it triggers the release of the hormone insulin from the pancreas. Insulin stimulates muscle and fat cells to remove glucose from the blood and stimulates the liver to metabolize glucose, causing the blood sugar level to decrease to normal levels.
+ When the amount of glucose in the blood increases, e.g., after a meal, it triggers the release 
+ of the hormone insulin from the pancreas. Insulin stimulates muscle and fat cells to remove 
+ glucose from the blood and stimulates the liver to metabolize glucose, causing the blood sugar 
+ level to decrease to normal levels.
 
-In people with diabetes, blood sugar levels remain high. This may be because insulin is not being produced at all, is not made at sufficient levels, or is not as effective as it should be. The most common forms of diabetes are type 1 diabetes (5%), which is an autoimmune disorder, and type 2 diabetes (95%), which is associated with obesity. Gestational diabetes is a form of diabetes that occurs in pregnancy, and other forms of diabetes are very rare and are caused by a single gene mutation.
+ In people with diabetes, blood sugar levels remain high. This may be because insulin is not 
+ being produced at all, is not made at sufficient levels, or is not as effective as it should 
+ be. The most common forms of diabetes are type 1 diabetes (5%), which is an autoimmune 
+ disorder, and type 2 diabetes (95%), which is associated with obesity. Gestational diabetes is 
+ a form of diabetes that occurs in pregnancy, and other forms of diabetes are very rare and are 
+ caused by a single gene mutation.
+ 
+ 
+ 
+ 
+ 
+  Project Statement Gif:
+
+
+  <img src="https://www.slideshare.net/slideshow/diabetes-and-git" height=15% width=40% align="right">
