@@ -17,7 +17,7 @@ Future updation: need to work on data scientist
 Problem statement
 (diabetes):
 
-  <img src="https://miro.medium.com/v2/resize:fit:1024/1*B8gZWOU9GTpz4ps4I7rZjQ.jpeg" height=10% width=40% align="right">
+  <img src="https://miro.medium.com/v2/resize:fit:1024/1*B8gZWOU9GTpz4ps4I7rZjQ.jpeg" height=10% width=20% align="right">
   
   
 Here are some problem statements related to diabetes:
