@@ -98,9 +98,8 @@ By contrast, the probability of dying from any one of the four main noncommunica
  
   Project Statement Photo:
 
-
-
-<img src="https://user-images.githubusercontent.com/110838853/192419145-78730245-264d-49fb-bce6-987c05410698.png" height=15% width=40% align="left">
-
+...   <img src="https://data.textstudio.com/output/sample/animated/1/4/4/9/thank-you-27-9441.gif
+" height=15% width=40% align="right">
+https://data.textstudio.com/output/sample/animated/1/4/4/9/thank-you-27-9441.gif
 
 
