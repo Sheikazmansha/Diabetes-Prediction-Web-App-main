@@ -96,13 +96,12 @@ By contrast, the probability of dying from any one of the four main noncommunica
  
  
  
-  Project Statement Gif:
+  Project Statement Photo:
 
 
 
-<img src="https://image.slidesharecdn.com/igmc-151011171138-lva1-app6891/85/Diabetes-and-GIT-5-320.jpg" height=15% width=40% align="right">
-
-<img src="https://user-images.githubusercontent.com/41515202/95026749-37330280-06b1-11eb-888d-bf7bd2bc45bd.png" height=25% width=40% align="right">
+<img src="https://user-images.githubusercontent.com/110838853/192419145-78730245-264d-49fb-bce6-987c05410698.png" height=15% width=40% align="right">
 
 
+https://user-images.githubusercontent.com/110838853/192419145-78730245-264d-49fb-bce6-987c05410698.png
 
