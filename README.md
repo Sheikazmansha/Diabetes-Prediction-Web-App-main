@@ -99,9 +99,10 @@ By contrast, the probability of dying from any one of the four main noncommunica
   Project Statement Gif:
 
 
- <img src="https://image.slidesharecdn.com/igmc-151011171138-lva1-app6891/85/Diabetes-and-GIT-5-320.jpg" height=15% width=40% align="right">
 
- 
-<img src="https://github.com/Priyanshu88/Diabetes-Prediction-Streamlit-App.git" height=15% width=40% align="right">
+<img src="https://image.slidesharecdn.com/igmc-151011171138-lva1-app6891/85/Diabetes-and-GIT-5-320.jpg" height=15% width=40% align="right">
 
- https://github.com/Priyanshu88/Diabetes-Prediction-Streamlit-App.git
+<img src="https://user-images.githubusercontent.com/41515202/95026749-37330280-06b1-11eb-888d-bf7bd2bc45bd.png" height=25% width=40% align="right">
+
+
+
