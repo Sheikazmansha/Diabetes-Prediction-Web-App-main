@@ -36,7 +36,7 @@ To prevent or delay the onset of type 2 diabetes, you can: Maintain a normal bod
 Demo web app details:
 
 
-<img src="https://raw.githubusercontent.com/Faltenreich/Diaguard/develop/resource/image/marketing/showcase.png"  height=40% width=40% align="right">
+<img src="https://raw.githubusercontent.com/Faltenreich/Diaguard/develop/resource/image/marketing/showcase.png"  height=50% width=50% align="right">
 
 Diaguard is an Android app for people with diabetes mellitus.
 
@@ -98,5 +98,3 @@ By contrast, the probability of dying from any one of the four main noncommunica
  
   Project Statement Gif:
 
-
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5gDG-tdm1-Up1_dsNNdtDIAFDqF1Y3J_jw&s"height=15% width=40% align="right">
